@@ -2,4 +2,4 @@
 
 # Tugas
 1. [Materialized views & Transactions](/tugas/materialized-views-transactions.md)
-2. [Storing and Accessing Lots of Images in Python](https://github.com/balqiszamzami/SD3203-Teknologi-Basis-Data/blob/main/Tugas/Pertemuan9/Soal/Task9.md) | Pertemuan 9
+2. [Storing and Accessing Lots of Images in Python](https://github.com/balqiszamzami/SD3203-Teknologi-Basis-Data/blob/main/tugas/Pertemuan9/Soal/Task.md) | Pertemuan 9
