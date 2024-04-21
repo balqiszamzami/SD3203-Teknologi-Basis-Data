@@ -8,3 +8,5 @@
 - - Re-implementasikan artikel tersebut dan buatlah laporan dalam bentuk markdown
   - Gunakan bahasa yang mudah dimengerti dalam menjelaskan setiap langkah yang anda kerjakan
 - File format : markdown dengan nama "**Class-NIM.md**" contoh : "**RA-1234.md**"
+
+[**Jawaban Disini**](https://github.com/balqiszamzami/SD3203-Teknologi-Basis-Data/tree/main/tugas/Pertemuan9/Jawaban)
