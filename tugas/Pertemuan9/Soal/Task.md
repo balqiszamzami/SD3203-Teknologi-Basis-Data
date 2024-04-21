@@ -1,6 +1,6 @@
 # **Task**
 
-![Alt Text](https://github.com/balqiszamzami/SD3203-Teknologi-Basis-Data-TBD/blob/main/Tugas/Pertemuan9/Pict/taskweek9.jpg)
+![Alt Text](https://github.com/balqiszamzami/SD3203-Teknologi-Basis-Data/blob/main/tugas/Pertemuan9/Soal/taskweek9.jpg)
 
 - Title : Three Ways of Storing and Accessing Lots of Images in Python
 - URL : https://realpython.com/storing-images-in-python/
